@@ -2,6 +2,8 @@
 
 Olá, tudo bem?
 
+Sim, tudo bem e com você?
+
 <!--
 **erikopa/erikopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
